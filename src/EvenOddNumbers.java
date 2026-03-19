@@ -8,9 +8,9 @@ public class EvenOddNumbers {
 
         System.out.println("Even and Odd Numbers: ");
         System.out.println("Digit a number: ");
-        // Comando para salvar entrada digita pelo usuário no console como tipo Integer
+        // Comando para salvar entrada digitada pelo usuário no console como tipo Integer
         int number = scanner.nextInt();
-        // Comando para fechar o objeto scanner, assim liberando recursos de memória
+        // Comando para fechar o objeto scanner, assim, liberando recursos de memória
         scanner.close();
 
         // Comando de condição if simples para verificar se um número é par ou ímpar
